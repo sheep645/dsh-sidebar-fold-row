@@ -1,0 +1,3 @@
+- insert:
+    - id: sidebar-fold-row
+      name: 'dsh-sidebar-fold-row'
